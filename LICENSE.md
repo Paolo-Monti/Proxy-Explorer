@@ -1,4 +1,4 @@
-# PROXY EXPLORER 1.0
+# PROXY EXPLORER 1.2
 
 ## LICENSE AGREEMENT AND DISCLAIMER
 Copyright (C) 2026 Paolo Monti. All rights reserved.

@@ -2,6 +2,20 @@
 
 All notable changes to Proxy Explorer are documented in this file.
 
+## [1.2] - 2026-09-24
+
+### Added
+
+- Show the full value in a tooltip when a result cell is truncated.
+- Allow result columns to be resized by dragging their headings while keeping
+  user-selected widths during the current DPI setting.
+
+### Changed
+
+- Build the Win64 executable with PEPack LZMA and resource compression, then
+  verify its extended integrity footer and IAT integrity manifest.
+- Update application, executable, installer and license version labels to 1.2.
+
 ## [1.1] - 2026-09-22
 
 ### Added
@@ -49,4 +63,3 @@ All notable changes to Proxy Explorer are documented in this file.
   192 DPI.
 - Verified PEPack payload and import-table integrity, packed startup, a live
   discovery/proxy test, and isolated current-user installer install/uninstall.
-

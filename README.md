@@ -1,4 +1,4 @@
-# Proxy Explorer 1.1
+# Proxy Explorer 1.2
 
 **Discover public proxy candidates, measure response time, and inspect their observed anonymity.**
 
@@ -15,6 +15,7 @@ flat interface and an integrated user guide.
 - Inspect connection status, response time and observed anonymity.
 - Resolve two-letter ISO country codes to localized full country names.
 - Sort results by clicking column headings.
+- Resize columns by dragging heading boundaries; truncated cells show their full value in a tooltip.
 - Copy a proxy's address, port or `address:port` using the context menu.
 - Import saved CSV or TXT lists and run fresh tests.
 - Export identity-verified results to CSV or TXT in three formats.
@@ -28,7 +29,7 @@ flat interface and an integrated user guide.
 
 ## Installation
 
-Run `ProxyExplorer-1.1-Win64-Setup.exe` from the release package.
+Run `ProxyExplorer-1.2-Win64-Setup.exe` from the release package.
 
 1. Choose **current user** or **all users**.
 2. Read the License Agreement and select **I accept the agreement** to continue.
